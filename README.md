@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Kiran - aka [codingHippo]
+# 👋 Hi, I’m Kiran - aka [codingHippo]
 
 ## 👀 I’m a Developer, and a Teacher .
 
