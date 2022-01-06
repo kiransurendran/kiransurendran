@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kiran - aka [codingHippo]
 
-## 👀 I’m a Developer, and a Teacher .
+## 👀 I’m a Web Developer .
 
 ## I primarily focus on React and NodeJs-Express based Development.
 
