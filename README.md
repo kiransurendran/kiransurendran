@@ -4,7 +4,7 @@
 
 ## I primarily focus on React and NodeJs-Express based Development.
 
-- 🌱 I’m currently learning Vue.
+- 🌱 I’m currently learning MySQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : kiransurendran91@gmail.com
 
