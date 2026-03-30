@@ -1,4 +1,5 @@
 Hello 👋
+
 A self-driven developer focused on building practical, scalable systems with a strong interest in AI, trading automation, and MicroSaaS products.
 
 ⸻
