@@ -1,16 +1,64 @@
-👋 Hi there! I’m a developer with a passion for clean, efficient code and a knack for solving challenging problems. I strive to blend precision and creativity in every project I take on.
+Hello 👋
+A self-driven developer focused on building practical, scalable systems with a strong interest in AI, trading automation, and MicroSaaS products.
 
-💻 My work focuses on building impactful solutions while continuously exploring new tools and technologies to sharpen my skills.
+⸻
 
-💡 Outside of coding, I’m a strength training enthusiast and a self-taught cook. From experimenting with new recipes to perfecting the classics, I bring the same curiosity and discipline to my hobbies as I do to my work.
+🚀 What I’m Working On
+	•	🤖 AI-powered trading systems
+Building real-time intraday trading bots using Python, WebSockets, and broker APIs (Zerodha, Upstox)
+	•	📊 Algorithmic strategies
+Exploring breakout systems, price action models, and automated execution engines
+	•	💬 WhatsApp-based MicroSaaS
+Creating automation tools for schools and local businesses using WhatsApp integrations
+	•	🧠 AI applications
+Working on tools for ad generation and content automation using LLMs
 
-🌱 I’m currently working on personal growth, exploring meaningful projects, and always looking to learn something new. Collaboration and innovation are at the heart of what I do.
+⸻
 
-🔧 Skills:
-	•	Proficient in JavaScript, Python, and other tech essentials
-	•	Focused on problem-solving and writing maintainable, scalable code
-	•	Driven by curiosity, chai, and a love for continuous improvement
+🛠️ Tech Stack
+	•	Backend: Node.js (Express), Python
+	•	Frontend: React
+	•	Database: PostgreSQL, MongoDB
+	•	Trading APIs: Zerodha Kite, Upstox
+	•	Other: WebSockets, REST APIs, Docker (learning)
 
-⚡ Fun Fact: When I’m not coding or at the gym, you’ll find me experimenting in the kitchen or soaking in the peace of a good walk outdoors.
+⸻
 
-Let’s connect and create something amazing together! 🚀
+🎯 Current Focus
+	•	Building a fully automated trading engine with:
+	•	Real-time market data processing
+	•	Strategy execution
+	•	Risk management
+	•	Broker integration
+	•	Designing scalable MicroSaaS products with real-world utility
+
+⸻
+
+📈 Goals
+	•	Build profitable, fully automated trading systems
+	•	Launch multiple MicroSaaS products
+	•	Reach ₹2–3L/month through tech + trading
+
+⸻
+
+🤝 Let’s Connect
+
+I’m always open to collaborating on:
+	•	Trading systems
+	•	AI-based applications
+	•	SaaS ideas
+
+⸻
+
+⚡ Fun Fact
+
+I prefer building things that actually make money or solve real problems — not just tutorials.
+
+⸻
+
+If you want, I can also:
+	•	Make this more minimal (startup-style)
+	•	Or make it more “impressive” for recruiters
+	•	Or tailor it specifically for your trading bot repo README
+
+Just tell me 👍
