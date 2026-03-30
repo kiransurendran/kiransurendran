@@ -1,39 +1,18 @@
 Hello 👋
 
-A self-driven developer focused on building practical, scalable systems with a strong interest in AI, trading automation, and MicroSaaS products.
+I'm a self-driven developer focused on building practical, scalable systems with a strong interest in AI, trading automation, and MicroSaaS products.
 
 ⸻
 
 🚀 What I’m Working On
 	•	🤖 AI-powered trading systems
-Building real-time intraday trading bots using Python, WebSockets, and broker APIs (Zerodha, Upstox)
+		Building real-time intraday trading bots using Python, WebSockets, and broker APIs (Zerodha, Upstox)
 	•	📊 Algorithmic strategies
-Exploring breakout systems, price action models, and automated execution engines
+		Exploring breakout systems, price action models, and automated execution engines
 	•	💬 WhatsApp-based MicroSaaS
-Creating automation tools for schools and local businesses using WhatsApp integrations
+		Creating automation tools for schools and local businesses using WhatsApp integrations
 	•	🧠 AI applications
-Working on tools for ad generation and content automation using LLMs
-
-⸻
-
-🛠️ Tech Stack
-	•	Backend: Node.js (Express), Python
-	•	Frontend: React
-	•	Database: PostgreSQL, MongoDB
-	•	Trading APIs: Zerodha Kite, Upstox
-	•	Other: WebSockets, REST APIs, Docker (learning)
-
-⸻
-
-🎯 Current Focus
-	•	Building a fully automated trading engine with:
-	•	Real-time market data processing
-	•	Strategy execution
-	•	Risk management
-	•	Broker integration
-	•	Designing scalable MicroSaaS products with real-world utility
-
-⸻
+		Working on tools for ad generation and content automation using LLMs
 
 📈 Goals
 	•	Build profitable, fully automated trading systems
@@ -54,12 +33,3 @@ I’m always open to collaborating on:
 ⚡ Fun Fact
 
 I prefer building things that actually make money or solve real problems — not just tutorials.
-
-⸻
-
-If you want, I can also:
-	•	Make this more minimal (startup-style)
-	•	Or make it more “impressive” for recruiters
-	•	Or tailor it specifically for your trading bot repo README
-
-Just tell me 👍
